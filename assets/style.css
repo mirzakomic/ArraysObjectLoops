@@ -10,3 +10,28 @@ html {
     overflow-x: hidden;
     font-size:2rem;
 }
+
+.demo {
+    border:1px solid #C0C0C0;
+    border-collapse:collapse;
+    padding:5px;
+}
+.demo th {
+    border:1px solid #C0C0C0;
+    padding:5px;
+    background:#F0F0F0;
+}
+.demo td {
+    border:1px solid #C0C0C0;
+    padding:5px;
+}
+/* 
+tbody {
+    display: flex;
+    flex-direction: row;
+}
+
+tbody tr {
+    display: flex;
+    flex-direction: column;
+} */
